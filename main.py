@@ -5,7 +5,6 @@ from constants import *
 from player import Player
 from asteroidfield import AsteroidField
 from asteroid import Asteroid
-from circleshape import CircleShape
 from bullet import Shot
 
 def main():
